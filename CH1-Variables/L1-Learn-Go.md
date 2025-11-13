@@ -39,4 +39,4 @@ func main() {
 }
 
 ## 🧾 Output
-<span style="color:limegreen; font-weight:bold;">Starting Textio server...</span>
+> Starting Textio server...
