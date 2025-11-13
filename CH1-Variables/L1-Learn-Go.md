@@ -38,3 +38,5 @@ func main() {
     fmt.Println("Starting Textio server...")
 }
 
+## 🧾 Output
+<span style="color:limegreen; font-weight:bold;">Starting Textio server...</span>
