@@ -1,0 +1,25 @@
+package main
+
+import "fmt"
+
+func main() {
+	var myInt int
+	var myFloat float64
+	var myBool bool
+	var myString string
+
+	fmt.Println(myInt, myFloat, myBool, myString)
+}
+
+💻**OUTPUT**
+0 0 false 
+
+*⭐ In Go, all variables are automatically initialized with zero values based on their types:*
+
+*int → 0*
+
+*float64 → 0*
+
+*bool → false*
+
+*string → "" (empty string)*
